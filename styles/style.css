@@ -7,6 +7,15 @@ body {
   background-position: 0 0, 15px 15px;
 }
 
+.vignette {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 0 200px rgba(0,0,0,0.9) inset;
+}
+
 img{ 
     transform-origin:50% 50%;
     animation:10s rotateRight infinite linear; 
