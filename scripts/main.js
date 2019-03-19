@@ -1,4 +1,2 @@
-var myHeading = document.querySelector('h2');
+var myHeading = document.querySelector('h1');
 myHeading.textContent = 'go away';
-
-// currently no h2 exists
