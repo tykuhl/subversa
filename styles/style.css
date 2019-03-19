@@ -1,3 +1,12 @@
+body {
+  background: #444444;
+  background-image:
+    radial-gradient(salmon 20%, transparent 0), 
+    radial-gradient(salmon 20%, transparent 0);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+}
+
 img{ 
     transform-origin:50% 50%;
     animation:10s rotateRight infinite linear; 
