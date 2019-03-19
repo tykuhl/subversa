@@ -3,6 +3,10 @@ img{
     animation:2s rotateRight infinite linear; 
 }
 
+h1{ 
+    color:#FFFFFF;
+}
+
 /*
 h1{ 
     transform-origin:50% 50%;
