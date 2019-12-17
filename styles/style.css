@@ -18,7 +18,7 @@ body {
 
 img{ 
     transform-origin:50% 50%;
-    animation:5s rotateRight infinite linear; 
+    animation:10s rotateRight infinite linear; 
 }
 
 
