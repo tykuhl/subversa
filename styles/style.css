@@ -16,10 +16,12 @@ body {
   box-shadow: 0 0 200px rgba(0,0,0,0.9) inset;
 }
 
+/*
 img{ 
     transform-origin:50% 50%;
     animation:10s rotateRight infinite linear; 
 }
+*/
 
 
 h1{ 
